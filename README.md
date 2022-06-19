@@ -7,7 +7,7 @@ This Page Hosts all my Data Science Projects
 ### Name: Onyinyechi Ebinyasi
 
 
-[LinkedIn](www.linkedin.com/in/onyx-ebinyasi-608a51105)
+[LinkedIn](https://www.linkedin.com/in/onyx-ebinyasi-608a51105/)
 
 
 ## Project 1 : [Title](https://github.com/OnyxABC/Class)
