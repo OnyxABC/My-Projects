@@ -1,6 +1,6 @@
-# My-Project-Portfolio
+# My Capstone Data Projects
 
-This Page Hosts all my Data Science Projects
+This Page Hosts my Campstone Data Projects
 
-## Welcome to my Data Science Portfolio
+## Welcome to my Capsone Data Projects
 
